@@ -1,0 +1,25 @@
+{
+  "name": "json-from-location-hash",
+  "version": "0.1.0",
+  "description": "Simple library to extract JSON from location hash",
+  "main": "json-from-hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickkolok/json-from-location-hash.git"
+  },
+  "keywords": [
+    "JSON",
+    "location",
+    "hash",
+    "extract"
+  ],
+  "author": "Nikolay Avdeev <nickkolok@mail.ru>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nickkolok/json-from-location-hash/issues"
+  },
+  "homepage": "https://github.com/nickkolok/json-from-location-hash#readme"
+}
