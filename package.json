@@ -1,6 +1,6 @@
 {
   "name": "json-from-location-hash",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple library to extract JSON from location hash",
   "main": "json-from-hash.js",
   "scripts": {
